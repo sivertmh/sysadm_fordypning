@@ -1,9 +1,70 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="Page-1" id="xnne3aacFt8fuT0gaaur">
-    <mxGraphModel>
+    <mxGraphModel dx="1084" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A6apXcZC3fNMMPV3853W-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="129.17000000000002" y="60" width="183.34" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="233.34" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-7" value="" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-8" value="" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A6apXcZC3fNMMPV3853W-4" target="A6apXcZC3fNMMPV3853W-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A6apXcZC3fNMMPV3853W-4" target="A6apXcZC3fNMMPV3853W-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="290" as="sourcePoint" />
+            <mxPoint x="221" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-18" value="&lt;div&gt;Thinkpad T15&lt;/div&gt;&lt;div&gt;169.254.152.96&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-19" value="&lt;div&gt;HP mini&lt;/div&gt;&lt;div&gt;169.254.184.84&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-20" value="&lt;div&gt;VM Win10&lt;/div&gt;&lt;div&gt;176.18.0.1&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-21" value="&lt;div&gt;VM WinServer22&lt;/div&gt;&lt;div&gt;176.18.0.100&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-22" value="&lt;div&gt;tp-link 5-port switch&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_switch;" vertex="1" parent="1">
+          <mxGeometry x="465.8" y="152" width="37.74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-25" value="kablet-ekstern" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444.17" y="171" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A6apXcZC3fNMMPV3853W-24" target="A6apXcZC3fNMMPV3853W-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="210" as="sourcePoint" />
+            <mxPoint x="570" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6apXcZC3fNMMPV3853W-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A6apXcZC3fNMMPV3853W-24" target="A6apXcZC3fNMMPV3853W-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499" y="162" as="sourcePoint" />
+            <mxPoint x="530" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
