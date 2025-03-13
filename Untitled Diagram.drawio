@@ -18,10 +18,13 @@
           </mxCell>
         </object>
         <mxCell id="jsnIF1tEi3C4ULb17azO-8" value="&lt;div&gt;Win10 VM&lt;/div&gt;&lt;div&gt;&lt;div class=&quot;ewa-rteLine&quot;&gt;176.18.0.1&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-828" y="189" width="80" height="80" as="geometry" />
+          <mxGeometry x="-875" y="142" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jsnIF1tEi3C4ULb17azO-9" value="&lt;div&gt;WinSrv22 VM&lt;/div&gt;&lt;div&gt;&lt;div class=&quot;ewa-rteLine&quot;&gt;176.18.0.100&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-692" y="73" width="80" height="80" as="geometry" />
+          <mxGeometry x="-726" y="51" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnIF1tEi3C4ULb17azO-11" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-721" y="218" width="52" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
