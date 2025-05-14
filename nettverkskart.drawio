@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" border="50" scale="3" compressed="false" locked="false" version="27.0.5">
+  <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
+    <mxGraphModel dx="2039" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="pqWIpFZJdEByylqMywa0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jsnIF1tEi3C4ULb17azO-1" target="jsnIF1tEi3C4ULb17azO-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqWIpFZJdEByylqMywa0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jsnIF1tEi3C4ULb17azO-1" target="jsnIF1tEi3C4ULb17azO-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnIF1tEi3C4ULb17azO-1" value="&lt;div&gt;Ruter&lt;br&gt;176.18.0.1 /24&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="-499" y="341" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pqWIpFZJdEByylqMywa0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jsnIF1tEi3C4ULb17azO-5" target="pqWIpFZJdEByylqMywa0-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqWIpFZJdEByylqMywa0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jsnIF1tEi3C4ULb17azO-5" target="jsnIF1tEi3C4ULb17azO-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;div class=&quot;ewa-rteLine&quot;&gt;AD + DNS Host Server&lt;/div&gt;&lt;div class=&quot;ewa-rteLine&quot;&gt;176.18.0.201&lt;/div&gt;" placeholders="1" id="jsnIF1tEi3C4ULb17azO-5">
+          <mxCell style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;fontFamily=Helvetica;fontSize=12;fontColor=#0A3DA3;align=center;strokeWidth=2;fillColor=#EDF5FF;fontStyle=1;verticalAlign=bottom;strokeColor=none;labelBackgroundColor=#EDF5FF;labelBorderColor=none;labelPosition=center;verticalLabelPosition=top;" parent="1" vertex="1">
+            <mxGeometry x="-578" y="208" width="115" height="79" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="pqWIpFZJdEByylqMywa0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jsnIF1tEi3C4ULb17azO-6" target="jsnIF1tEi3C4ULb17azO-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;div&gt;Thinkpad T15&lt;/div&gt;&lt;div class=&quot;ewa-rteLine&quot;&gt;176.18.0.101&lt;/div&gt;" placeholders="1" id="jsnIF1tEi3C4ULb17azO-6">
+          <mxCell style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;fontFamily=Helvetica;fontSize=12;fontColor=#0A3DA3;align=center;strokeWidth=2;fillColor=#EDF5FF;fontStyle=1;verticalAlign=bottom;strokeColor=none;labelBackgroundColor=#EDF5FF;labelBorderColor=none;labelPosition=center;verticalLabelPosition=top;" parent="1" vertex="1">
+            <mxGeometry x="-422" y="208" width="80" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="pqWIpFZJdEByylqMywa0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jsnIF1tEi3C4ULb17azO-8" target="pqWIpFZJdEByylqMywa0-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnIF1tEi3C4ULb17azO-8" value="&lt;div&gt;Win10 VM&lt;/div&gt;&lt;div&gt;&lt;div class=&quot;ewa-rteLine&quot;&gt;176.18.0.1&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="-816" y="97" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pqWIpFZJdEByylqMywa0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jsnIF1tEi3C4ULb17azO-9" target="pqWIpFZJdEByylqMywa0-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsnIF1tEi3C4ULb17azO-9" value="&lt;div&gt;WinSrv22 VM&lt;/div&gt;&lt;div&gt;&lt;div class=&quot;ewa-rteLine&quot;&gt;176.18.0.100&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="-695" y="97" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pqWIpFZJdEByylqMywa0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pqWIpFZJdEByylqMywa0-14" target="jsnIF1tEi3C4ULb17azO-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqWIpFZJdEByylqMywa0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pqWIpFZJdEByylqMywa0-14" target="jsnIF1tEi3C4ULb17azO-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqWIpFZJdEByylqMywa0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pqWIpFZJdEByylqMywa0-14" target="jsnIF1tEi3C4ULb17azO-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqWIpFZJdEByylqMywa0-14" value="&lt;div&gt;vSwitch&lt;/div&gt;&lt;div&gt;kablet-ekstern&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="-756" y="219" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
