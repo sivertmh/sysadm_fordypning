@@ -10,7 +10,7 @@
         <mxCell id="pqWIpFZJdEByylqMywa0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jsnIF1tEi3C4ULb17azO-1" target="jsnIF1tEi3C4ULb17azO-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jsnIF1tEi3C4ULb17azO-1" value="&lt;div&gt;Ruter&lt;br&gt;176.18.0.1 /24&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" parent="1" vertex="1">
+        <mxCell id="jsnIF1tEi3C4ULb17azO-1" value="&lt;div&gt;Ruter (Range: 176.18.0.101-199)&lt;br&gt;176.18.0.1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" parent="1" vertex="1">
           <mxGeometry x="-499" y="341" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pqWIpFZJdEByylqMywa0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jsnIF1tEi3C4ULb17azO-5" target="pqWIpFZJdEByylqMywa0-14" edge="1">
